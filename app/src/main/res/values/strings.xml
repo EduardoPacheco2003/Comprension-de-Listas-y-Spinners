@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Listas-y-Spinners</string>
+    <string name="select_country">Select your Country</string>
+    <string name="select_country_english">Select your Country</string>
+    <string name="select_country_spanish">Selecciona tu país</string>
+    <string name="select_country_portuguese">Escolha o seu país</string>
+    <string name="select_country_german">Wähle dein Land</string>
+    <string name="select_country_french">Sélectionnez votre pays</string>
+    <string name="select_country_italian">Seleziona il tuo paese</string>
+    <string-array name="button_texts">
+        <item>Próximo</item>
+        <item>Next</item>
+        <item>Próximo</item>
+        <item>Weiter</item>
+        <item>Suivant</item>
+        <item>Avanti</item>
+    </string-array>
+    <string name="button_text">Next</string>
+    <string-array name="welcome_messages">
+        <item>Bienvenido!!</item>
+        <item>Welcome!!</item>
+        <item>Bem-vindo!!</item>
+        <item>Willkommen!!</item>
+        <item>Bienvenue!!</item>
+        <item>Benvenuto!!</item>
+    </string-array>
+    <string name="welcome_title">Welcome</string>
+
+</resources>
