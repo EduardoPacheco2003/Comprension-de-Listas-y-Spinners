@@ -26,7 +26,7 @@ A partir del ejemplo visto en clase sobre spinners, en donde se lista una serie 
 México:  
 ![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/9ea3d4e6-7921-4414-935f-5721b2630607)  
 USA, Cánada:  
-![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/8e97bbc8-5a35-407e-909d-d660e79abb85)  
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/a4ff89e7-aefe-4043-a6c0-f782fce86006)  
 Brazil:  
 ![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/e307c1f0-8e0d-4387-a5f5-4c36e0331c00)  
 Alemania:  
