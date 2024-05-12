@@ -11,11 +11,26 @@ A partir del ejemplo visto en clase sobre spinners, en donde se lista una serie 
 
 ### **Capturas de Pantalla**
 
-#### Pantalla Principal
+#### Pantalla Principal  
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/3d1f6eea-8233-4437-87ca-0476e54aa08d)  
 
-#### Seleccion de Paises
+#### Seleccion de Paises  
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/f5ebc400-d413-4c83-98b9-0473c4ab60aa)  
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/7a01328c-049c-4c1d-a075-cb3c4fb1b203)  
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/645e5586-6c5a-4ef3-8eaf-71b22aa3695c)  
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/d5ff27b3-989b-4981-b457-d571adcd6504)  
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/3b3d6b85-2477-4d75-97e5-e251c7fd46c6)  
+
 
 #### Mensajes de Bienvenida
+México:  
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/9ea3d4e6-7921-4414-935f-5721b2630607)  
+USA, Cánada:  
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/8e97bbc8-5a35-407e-909d-d660e79abb85)  
+Brazil:  
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/a0bc7985-837c-4af3-ae78-4ca3727b174c)
+Alemania:
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/b6a7f7d3-5617-4837-9716-d14e61fd428f)
 
 ### Codigo de la Actividad Principal
 
