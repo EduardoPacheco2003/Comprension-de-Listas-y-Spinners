@@ -28,9 +28,13 @@ México:
 USA, Cánada:  
 ![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/8e97bbc8-5a35-407e-909d-d660e79abb85)  
 Brazil:  
-![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/a0bc7985-837c-4af3-ae78-4ca3727b174c)
-Alemania:
-![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/b6a7f7d3-5617-4837-9716-d14e61fd428f)
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/e307c1f0-8e0d-4387-a5f5-4c36e0331c00)  
+Alemania:  
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/b6a7f7d3-5617-4837-9716-d14e61fd428f)  
+Francia:  
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/7454ec8d-2d79-4fa4-a488-9af825303a08)  
+Italia:  
+![image](https://github.com/EduardoPacheco2003/Comprension-de-Listas-y-Spinners/assets/100945554/eb7024ca-aa9f-41fc-b64f-55cb54ecfb09)  
 
 ### Codigo de la Actividad Principal
 
